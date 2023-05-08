@@ -123,3 +123,7 @@ Upon satisfactory completion of this course, a student should be able to:
 | 18 | MVP |
 | 19 | Final Polish, Presentation Practice |
 | 20 | Live Project Presentations |
+
+## Resources
+
+- [Replit: Arrow Functions, Classes and forEach](https://replit.com/@sheyna/CapitalFrequentThings#index.js)
