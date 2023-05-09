@@ -106,3 +106,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
    export default Something
    ```
+
+## Resources
+
+- [Replit: Arrow Functions, Classes and forEach](https://replit.com/@sheyna/CapitalFrequentThings#index.js)

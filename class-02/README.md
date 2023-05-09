@@ -93,3 +93,8 @@ This class will focus on passing information as `props` from a parent component 
 
   export default Child
   ```
+
+## Resources
+
+- [Replit: Array .map() method](https://replit.com/@sheyna/FormalUprightKeys#index.js);
+- [Replit: Callback functions](https://replit.com/@sheyna/BoldMuffledApplicationprogrammer#index.js)
