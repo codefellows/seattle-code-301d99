@@ -1,0 +1,10 @@
+.person {
+  border: 1px solid grey;
+  width: 24%;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.person img {
+  width: 100%;
+}
