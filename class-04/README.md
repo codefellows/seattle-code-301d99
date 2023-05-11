@@ -36,3 +36,8 @@ In this class we will cover how React handles `forms` and the asynchronous natur
 1. If I am listening for an onChange on the input field, how to I access the value that the user is typing in?
 
 1. If the form is my child component, how do I send the information collected from that form up to the parent component?
+
+## Resources
+
+- [Replit: Array .sort() method](https://replit.com/@sheyna/BraveGoldDistributionsoftware#index.js)
+- [Replit: Array .map() and .filter() review](https://replit.com/@sheyna/RecentConsiderableOctagons#index.js)
