@@ -53,3 +53,11 @@ During this class we will use our express server to request information from thi
   ```
 
 - NOTE: `axios` returns a giant object. The data we care about will be found in the `data` property of that object.
+
+
+## Resources
+
+- [Replit: RegEx](https://replit.com/@sheyna/MoralUntrueTheory#index.js)
+- [RegEx 101 Sandbox (remember to select JavaScript)](https://regex101.com/)
+- [Http Status Dogs](https://httpstatusdogs.com/)
+- [Http Cat](https://http.cat/)
