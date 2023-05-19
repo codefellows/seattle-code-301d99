@@ -10,12 +10,12 @@ let getPhotos = async (req, res, next) => {
   let params = {
     client_id: process.env.UNSPLASH_API_KEY,
     query: searchQuery,
-    orientation: landscape
+    orientation: "landscape"
   }
 
   let url = 'https://api.unsplash.com/search/photos';
 
-  axios.get(url, { parama })
+  axios.get(url, { params })
     .then(photoData => photoData.data.results.map(pic => new Photo(pic)))
     .then(picArray => res.status(200).send(picArray))
     .catch(error => console.error(err));
