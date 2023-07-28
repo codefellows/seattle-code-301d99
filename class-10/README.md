@@ -71,8 +71,3 @@ During this class we will talk about in-memory storage as well as dive deeper in
     // dump the data and get fresh data from the API
   }
   ```
-
-
-## Resources
-
-- [Replit: For in and For of](https://replit.com/@sheyna/LegitimateGrubbyExecutables)

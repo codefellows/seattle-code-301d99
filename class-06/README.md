@@ -93,8 +93,3 @@ For this class we will explore third party APIs and how to request data from the
 
    - you can wrap a try/catch around any code you want
    - it says, "try to run this code - if it doesn't work, then run the code in the catch block"
-
-## Resources
-
-- [Replit: Pass by Value vs Pass by Reference, and Ternaries](https://replit.com/@sheyna/IncompatiblePurpleSpreadsheets#index.js)
-- [Replit: Reduce review](https://replit.com/@sheyna/UselessGrumpyDeletions#index.js)

@@ -118,8 +118,3 @@ For this class we will dive a little bit deeper into Express and higher level pr
   ```
 
   1. List of resources to help with lab or if I want to know more:
-
-## Resources
-
-- [Replit: Object.keys(), Object.values() and Object.entries()](https://replit.com/@sheyna/AwkwardFullBackup)
-- [Replit: Chaining](https://replit.com/@sheyna/CoordinatedPoliteExperiment#index.js)

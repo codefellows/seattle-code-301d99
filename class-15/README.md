@@ -124,8 +124,3 @@ You will be assigned your project teams. For the next module of this course, you
    export default Profile;
 
    ```
-
-## Resources
-
-- [Auth0.com](https://auth0.com/)
-- [Guide to adding Auth0 to React](https://auth0.com/docs/quickstart/spa/react/interactive)

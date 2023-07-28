@@ -91,7 +91,3 @@ For this class we will use the skills we learned during the last module to build
     }
   }
   ```
-
-## Resources
-
-- [Replit: Array .reduce() method](https://replit.com/@sheyna/VioletredNotableDaemon#index.js)

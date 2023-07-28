@@ -104,7 +104,3 @@ fluffy.save();
 
 1. What resources can I use to help me with my lab and to learn more?
 [mongoose](https://mongoosejs.com/docs/)
-
-## Resources
-
-- [Replit: Chaning (same as Class 9)](https://replit.com/@sheyna/CoordinatedPoliteExperiment#index.js)
