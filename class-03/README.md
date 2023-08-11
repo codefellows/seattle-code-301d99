@@ -87,3 +87,7 @@ In the last class, you learned how to pass information from a parent component i
   ```
 
   - Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+
+## Resources
+- [Replit: Array .filter()](https://replit.com/@sheyna/HideousNearTrapezoids#index.js)
+- [Bootstrap classes cheatsheet](https://bootstrapshuffle.com/classes)
