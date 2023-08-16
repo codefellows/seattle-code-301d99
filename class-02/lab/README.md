@@ -44,7 +44,7 @@ Then the photo gallery should display all of the beasts' images in the gallery.
 
 #### How are we implementing it?
 
-- The `Main` component should pass props for the title, image and description to each `HornedBeast` component. You will find this information in the provided JSON file.
+- The `Gallery` component should pass props for the title, image and description to each `HornedBeast` component. You will find this information in the provided JSON file.
 
 ### Feature #2: Allow Users to Favorite Individual Beasts
 
